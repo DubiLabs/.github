@@ -6,13 +6,13 @@
 <p align="center">
 <a href="https://github.com/DubiSub/dubisub"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-source.svg?v=3871dbb002" alt="Mã nguồn" height="42"></a>
 <a href="https://github.com/DubiSub/dubisub/releases"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-releases.svg?v=da98628594" alt="Bản phát hành" height="42"></a>
-<a href="https://github.com/DubiSub/dubisub/blob/main/DubiSub-Desktop/README.vi.md"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-guide.svg?v=1a79d916b0" alt="Hướng dẫn" height="42"></a>
+<a href="https://github.com/DubiSub/dubisub/blob/main/DubiSub/README.vi.md"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-guide.svg?v=1a79d916b0" alt="Hướng dẫn" height="42"></a>
 <a href="https://github.com/DubiSub/dubisub/issues/new/choose"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-issues.svg?v=8559fedd29" alt="Góp ý và báo lỗi" height="42"></a>
 </p>
 
 <p align="center"><sub>Windows x64 &nbsp; / &nbsp; Source Preview &nbsp; / &nbsp; Light & Dark</sub></p>
 
-**DubiSub-Desktop** — dịch video, tạo phụ đề và lồng tiếng trong cùng một không gian làm việc.
+**DubiSub** — dịch video, tạo phụ đề và lồng tiếng trong cùng một không gian làm việc.
 
 <p align="center">
 <picture>
@@ -35,16 +35,16 @@
 <summary><strong>Bên trong không gian làm việc</strong></summary>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/dubisub/main/DubiSub-Desktop/docs/assets/screenshots/home-dark.png">
-  <img alt="Trang chủ DubiSub-Desktop với kho dự án, điều hướng và thanh trạng thái" src="https://raw.githubusercontent.com/DubiSub/dubisub/main/DubiSub-Desktop/docs/assets/screenshots/home-light.png" width="1280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/dubisub/main/DubiSub/docs/assets/screenshots/home-dark.png">
+  <img alt="Trang chủ DubiSub với kho dự án, điều hướng và thanh trạng thái" src="https://raw.githubusercontent.com/DubiSub/dubisub/main/DubiSub/docs/assets/screenshots/home-light.png" width="1280">
 </picture>
 </details>
 
 ### Đóng góp cho DubiSub
 
-Gửi ý tưởng hoặc báo lỗi tại [Issues](https://github.com/DubiSub/dubisub/issues/new/choose). Muốn tham gia phát triển, bắt đầu với [hướng dẫn dành cho developer](https://github.com/DubiSub/dubisub/blob/main/DubiSub-Desktop/docs/development.vi.md).
+Gửi ý tưởng hoặc báo lỗi tại [Issues](https://github.com/DubiSub/dubisub/issues/new/choose). Muốn tham gia phát triển, bắt đầu với [hướng dẫn dành cho developer](https://github.com/DubiSub/dubisub/blob/main/DubiSub/docs/development.vi.md).
 
 ---
 
 <p align="center">Created by <strong><a href="https://github.com/Ericismee">Ericismee</a></strong> &nbsp; · &nbsp; Built around your story.</p>
-<p align="center"><sub>Phần ứng dụng tuân theo <a href="https://github.com/DubiSub/dubisub/blob/main/LICENSE">LICENSE</a> và <a href="https://github.com/DubiSub/dubisub/blob/main/DubiSub-Desktop/legal/ownership-audit-2026-10-29.vi.md">phạm vi sở hữu</a>. Font, thư viện, codec và model giữ giấy phép riêng.</sub></p>
+<p align="center"><sub>Phần ứng dụng tuân theo <a href="https://github.com/DubiSub/dubisub/blob/main/LICENSE">LICENSE</a> và <a href="https://github.com/DubiSub/dubisub/blob/main/DubiSub/legal/ownership-audit-2026-10-29.vi.md">phạm vi sở hữu</a>. Font, thư viện, codec và model giữ giấy phép riêng.</sub></p>
