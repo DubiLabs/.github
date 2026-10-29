@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/hero-dark.svg?v=38d06bce63">
-  <img alt="DubiSub — Đưa câu chuyện đi xa hơn. Dịch video. Phụ đề. Lồng tiếng." src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/hero-light.svg?v=e64b7a099e" width="1280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/hero-dark.svg?v=da81233c7b">
+  <img alt="DubiSub — Translate. Dub. Create. Một video. Mọi ngôn ngữ." src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/hero-light.svg?v=80d282ba6c" width="1280">
 </picture>
 
 <p align="center">
@@ -12,26 +12,22 @@
 
 <p align="center"><sub>Windows x64 &nbsp; / &nbsp; Source Preview &nbsp; / &nbsp; Light & Dark</sub></p>
 
-**DubiSub-Desktop** kết nối dịch video, phụ đề và lồng tiếng trong một không gian làm việc. Từ một đoạn phim đến cả loạt nội dung — bạn chủ động chọn cách kể câu chuyện của mình.
+**DubiSub-Desktop** — dịch video, tạo phụ đề và lồng tiếng trong cùng một không gian làm việc.
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-translate-dark.svg?v=79494cde45">
-  <img alt="Dịch và lồng tiếng — thêm ngôn ngữ mới cho video của bạn." src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-translate-light.svg?v=ee71202ca8" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-translate-dark.svg?v=00f9cd5d4d">
+  <img alt="Dịch và lồng tiếng — thêm ngôn ngữ mới cho video của bạn." src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-translate-light.svg?v=63d3209bc4" width="280">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-edit-dark.svg?v=9f43588389">
-  <img alt="Biên tập phụ đề — chỉnh câu chữ và thời gian theo cách bạn muốn." src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-edit-light.svg?v=0ecaeae924" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-edit-dark.svg?v=862fc96242">
+  <img alt="Biên tập phụ đề — chỉnh câu chữ và thời gian theo cách bạn muốn." src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-edit-light.svg?v=4abb3e0640" width="280">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-workflow-dark.svg?v=5aa5aa60a0">
-  <img alt="Làm việc liền mạch — từng video hoặc hàng loạt, theo dõi tiến độ tập trung." src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-workflow-light.svg?v=361fe615ae" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-workflow-dark.svg?v=610e71bed9">
+  <img alt="Làm việc liền mạch — từng video hoặc hàng loạt, theo dõi tiến độ tập trung." src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/feature-workflow-light.svg?v=e7eccc03f1" width="280">
 </picture>
 </p>
-
-### Bắt đầu sáng tạo
-
-Khám phá [bản phát hành](https://github.com/DubiSub/dubisub/releases), làm theo [hướng dẫn tiếng Việt](https://github.com/DubiSub/dubisub/blob/main/DubiSub-Desktop/README.vi.md), rồi bắt đầu với quy trình tự động, chỉnh sửa thủ công hoặc xử lý hàng loạt.
 
 > **Hiện tại: Source Preview.** Gói tải gồm mã nguồn và checksum, chưa có Setup.exe hoặc bản portable đầy đủ. Runtime/model cần chuẩn bị riêng; tính năng phụ thuộc tài nguyên và cấu hình máy.
 
@@ -44,9 +40,9 @@ Khám phá [bản phát hành](https://github.com/DubiSub/dubisub/releases), là
 </picture>
 </details>
 
-### Cùng xây dựng DubiSub
+### Đóng góp cho DubiSub
 
-Một ý tưởng mới, một lỗi vừa gặp, một cải tiến nhỏ — đều có thể bắt đầu tại [Issues](https://github.com/DubiSub/dubisub/issues/new/choose). Tìm hiểu cấu trúc và cách chạy ứng dụng trong [hướng dẫn phát triển](https://github.com/DubiSub/dubisub/blob/main/DubiSub-Desktop/docs/development.vi.md).
+Gửi ý tưởng hoặc báo lỗi tại [Issues](https://github.com/DubiSub/dubisub/issues/new/choose). Muốn tham gia phát triển, bắt đầu với [hướng dẫn dành cho developer](https://github.com/DubiSub/dubisub/blob/main/DubiSub-Desktop/docs/development.vi.md).
 
 ---
 
