@@ -4,7 +4,6 @@
 </picture>
 
 <p align="center">
-<a href="https://github.com/DubiSub/dubisub"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-source.svg?v=3871dbb002" alt="Mã nguồn" height="42"></a>
 <a href="https://github.com/DubiSub/dubisub/releases"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-releases.svg?v=da98628594" alt="Bản phát hành" height="42"></a>
 <a href="https://github.com/DubiSub/dubisub/blob/main/DubiSub/README.vi.md"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-guide.svg?v=1a79d916b0" alt="Hướng dẫn" height="42"></a>
 <a href="https://github.com/DubiSub/dubisub/issues/new/choose"><img src="https://raw.githubusercontent.com/DubiSub/.github/main/profile/assets/button-issues.svg?v=8559fedd29" alt="Góp ý và báo lỗi" height="42"></a>
