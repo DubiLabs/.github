@@ -1,7 +1,5 @@
-# DubiSub organization profile
+# DubiLabs profile assets
 
-Maintained by Ericismee. Hosting organization: DubiSub.
+The DubiLabs banners and mark in `profile/assets/dubilabs-*` are based on the DubiLabs logo supplied by the organization owner. They represent the organization on its GitHub profile.
 
-The original subtitle-ribbon mark and original banner retain their Ericismee MIT notice in ORIGINAL-ASSETS-LICENSE.txt. Hero compositions were created for the DubiSub organization. Typography uses Be Vietnam Pro outlines; the font retains its independent OFL notice in TYPOGRAPHY-OFL.txt. No font file, user video, credential, or application runtime is included.
-
-This repository contains organization profile content, not the application license or a transfer of third-party rights. Application terms and ownership scope are maintained in https://github.com/DubiSub/dubisub.
+Earlier DubiSub artwork remains available at its existing paths. The original mark and banner retain the notice in [ORIGINAL-ASSETS-LICENSE.txt](ORIGINAL-ASSETS-LICENSE.txt). The Be Vietnam Pro outlines used in the banners and earlier artwork retain the independent notice in [TYPOGRAPHY-OFL.txt](TYPOGRAPHY-OFL.txt).

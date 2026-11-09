@@ -1,14 +1,16 @@
-# DubiSub organization profile
+# DubiLabs
 
-Public presentation assets and the GitHub organization profile for [DubiSub](https://github.com/DubiSub).
+> Turning ideas into real products. AI • Software • Creativity
 
-- Profile content: [profile/README.md](profile/README.md).
-- Application repository: [DubiSub/dubisub](https://github.com/DubiSub/dubisub).
-- Maintainer: [Ericismee](https://github.com/Ericismee).
-- Original mark/banner and typography retain the notices described in [NOTICE.md](NOTICE.md).
+Hồ sơ công khai, nhận diện và danh mục sản phẩm của tổ chức DubiLabs trên GitHub.
 
-Use outlined SVG typography for consistent Vietnamese rendering. Both light and dark profile headers are provided. This profile repository does not contain the application, an installer, user data, or credentials.
+Public GitHub profile, brand assets, and product directory for the DubiLabs organization.
 
-## Regenerate artwork
+- [Xem hồ sơ tổ chức / Organization profile](https://github.com/DubiLabs)
+- [Chỉnh nội dung song ngữ / Edit the bilingual profile](profile/README.md)
+- [Tài sản nhận diện / Brand assets](profile/assets)
+- [Ghi chú về nhận diện / Asset notices](NOTICE.md)
 
-Run `python tools/generate-profile.py --fonts <Be-Vietnam-Pro-font-directory>` with PySide6 installed. The script creates outlined SVGs and local PNG previews; only SVGs are published. The profile keeps native text links and descriptive image alternatives for accessibility.
+Khi ra mắt sản phẩm mới, thêm mục giới thiệu vào cả hai ngôn ngữ trong `profile/README.md`. Liên kết bản tải dùng trang `/releases/latest` để theo bản ổn định mới nhất.
+
+When launching a product, add an entry to both languages in `profile/README.md`. Use the product’s `/releases/latest` link to keep downloads current.
