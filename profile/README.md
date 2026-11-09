@@ -1,55 +1,38 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiLabs/.github/3406c6956f4de1eab37a8a302ae9d374c8da9f35/profile/assets/dubilabs-banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/DubiLabs/.github/3406c6956f4de1eab37a8a302ae9d374c8da9f35/profile/assets/dubilabs-banner-light.svg" alt="DubiLabs. Turning ideas into real products. AI • Software • Creativity" width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiLabs/.github/3406c6956f4de1eab37a8a302ae9d374c8da9f35/profile/assets/dubilabs-banner-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/DubiLabs/.github/3406c6956f4de1eab37a8a302ae9d374c8da9f35/profile/assets/dubilabs-banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiLabs/.github/main/profile/assets/dubilabs-en-motion-dark.svg">
+  <img src="https://raw.githubusercontent.com/DubiLabs/.github/main/profile/assets/dubilabs-en-motion-light.svg" alt="DubiLabs. Turning ideas into real products. AI • Software • Creativity" width="1200">
 </picture>
 
 <p align="center">
-  <a href="#about-dubilabs">About</a> &nbsp;·&nbsp;
-  <a href="#tiếng-việt">Tiếng Việt</a> &nbsp;·&nbsp;
-  <a href="#product-showcase">Product showcase</a> &nbsp;·&nbsp;
-  <a href="https://dubilabs.ericisme.cloud/">Website</a>
+  <strong>English</strong> &nbsp;·&nbsp; <a href="https://github.com/DubiLabs/.github/blob/main/profile/README.vi.md">Vietnamese</a>
+  <br>
+  <a href="#about-dubilabs">About</a> &nbsp;·&nbsp; <a href="#product-showcase">Product showcase</a> &nbsp;·&nbsp; <a href="https://dubilabs.ericisme.cloud/">Website</a>
 </p>
 
 ## About DubiLabs
 
-DubiLabs is a software development organization working across AI, software engineering, and creative technology. We bring ideas from concept to implementation with a focus on clear design, reliable engineering, and practical use.
+DubiLabs is a software development organization working across AI, software engineering, and creative technology. We turn ideas into tools that address practical needs and fit into everyday work.
 
-### Our direction
+### What guides our work
 
-We explore how AI can support creative work while keeping people in control. We favor software that is straightforward to use, maintain, and improve over time.
-
-## Tiếng Việt
-
-DubiLabs là tổ chức phát triển phần mềm, hoạt động ở giao điểm giữa AI, kỹ thuật phần mềm và công nghệ sáng tạo. Chúng tôi đưa ý tưởng vào thực tế bằng thiết kế rõ ràng, kỹ thuật đáng tin cậy và sự chú trọng đến nhu cầu sử dụng.
-
-### Định hướng
-
-Chúng tôi tìm cách ứng dụng AI để hỗ trợ công việc sáng tạo và giữ quyền kiểm soát cho người dùng. DubiLabs ưu tiên phần mềm dễ sử dụng, dễ bảo trì và có thể tiếp tục cải tiến theo thời gian.
+- **Purposeful AI.** Apply AI where it makes a task easier or gives people a useful capability.
+- **Reliable engineering.** Build software that is clear to use, maintainable, and designed to improve over time.
+- **Creative control.** Give people room to shape the process and decide what the finished work looks like.
 
 ---
 
 ## Product showcase
 
-<!-- Add future public products here, with a cover, platform, short description, and stable release links. -->
+<!-- Add new public products here and in README.vi.md. Keep download links on the stable release channel. -->
 
 ### DubiSub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiLabs/.github/d8ff9b6151c5c869669ae75156636f3b59483fa1/profile/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/DubiLabs/.github/d8ff9b6151c5c869669ae75156636f3b59483fa1/profile/assets/hero-light.svg" alt="DubiSub. Translate, dub, and create." width="960">
-</picture>
+<a href="https://dubi.ericisme.cloud/"><img src="https://raw.githubusercontent.com/DubiLabs/.github/main/profile/assets/dubisub-showcase-timeline.svg" alt="DubiSub logo and a stylized video, subtitle, and audio timeline" width="960"></a>
 
 **Windows desktop** · Video translation, subtitling, and dubbing
 
-Edit dialogue and subtitles, preview the result, and export the finished video from one workspace.
+Edit dialogue and subtitles, preview your changes, and export the finished video on your computer.
 
 **[Download for Windows](https://github.com/DubiLabs/dubisub-releases/releases/latest)** · [Product website](https://dubi.ericisme.cloud/) · [User guide](https://github.com/DubiLabs/dubisub-releases/blob/main/docs/user-guide.md) · [Support](https://github.com/DubiLabs/dubisub-releases/issues)
-
-<details>
-<summary>Thông tin sản phẩm bằng tiếng Việt</summary>
-
-DubiSub là ứng dụng Windows để dịch video, tạo phụ đề và lồng tiếng. Bạn có thể chỉnh lời thoại, xem trước kết quả và xuất video trong cùng một không gian làm việc.
-
-**[Tải cho Windows](https://github.com/DubiLabs/dubisub-releases/releases/latest)** · [Hướng dẫn tiếng Việt](https://github.com/DubiLabs/dubisub-releases/blob/main/docs/user-guide.vi.md) · [Hỗ trợ](https://github.com/DubiLabs/dubisub-releases/issues)
-
-</details>

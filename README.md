@@ -2,15 +2,12 @@
 
 > Turning ideas into real products. AI • Software • Creativity
 
-Hồ sơ công khai, nhận diện và danh mục sản phẩm của tổ chức DubiLabs trên GitHub.
+Public GitHub profile, brand assets, and product showcase for DubiLabs.
 
-Public GitHub profile, brand assets, and product directory for the DubiLabs organization.
+- [Organization profile](https://github.com/DubiLabs)
+- [English profile](profile/README.md)
+- [Vietnamese profile](profile/README.vi.md)
+- [Brand assets](profile/assets)
+- [Asset notices](NOTICE.md)
 
-- [Xem hồ sơ tổ chức / Organization profile](https://github.com/DubiLabs)
-- [Chỉnh nội dung song ngữ / Edit the bilingual profile](profile/README.md)
-- [Tài sản nhận diện / Brand assets](profile/assets)
-- [Ghi chú về nhận diện / Asset notices](NOTICE.md)
-
-Khi ra mắt sản phẩm mới, thêm mục giới thiệu vào cả hai ngôn ngữ trong `profile/README.md`. Liên kết bản tải dùng trang `/releases/latest` để theo bản ổn định mới nhất.
-
-When launching a product, add an entry to both languages in `profile/README.md`. Use the product’s `/releases/latest` link to keep downloads current.
+Add new products to the showcase in both language files. Use stable product links and `/releases/latest` for downloads. For new artwork, use distinct file names so the rendered profile loads the correct version.
