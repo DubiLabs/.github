@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiLabs/.github/main/profile/assets/dubilabs-banner-dark.svg?v=2">
-  <img src="https://raw.githubusercontent.com/DubiLabs/.github/main/profile/assets/dubilabs-banner-light.svg?v=2" alt="DubiLabs. Turning ideas into real products. AI • Software • Creativity" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DubiLabs/.github/3406c6956f4de1eab37a8a302ae9d374c8da9f35/profile/assets/dubilabs-banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/DubiLabs/.github/3406c6956f4de1eab37a8a302ae9d374c8da9f35/profile/assets/dubilabs-banner-light.svg" alt="DubiLabs. Turning ideas into real products. AI • Software • Creativity" width="1200">
 </picture>
 
 <p align="center">
